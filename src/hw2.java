@@ -8,7 +8,7 @@ public class hw2 {
         if (age < 45 && temperature > -10 && temperature < 25)
             return "Можно идти гулять!";
         else {
-            return "Оставайтесь дома";
+            return "Оставайтесь дома!";
         }
     }
 
